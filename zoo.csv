@@ -1,0 +1,6 @@
+animal_name,hair,feathers,eggs,milk,airborne,aquatic,predator,toothed,backbone,breathes,venomous,fins,legs,tail,domestic,catsize,class_type
+lion,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1
+tiger,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1
+zebra,0,0,0,0,0,0,0,1,1,1,0,0,4,1,0,1,1
+elephant,0,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,2
+giraffe,1,0,0,1,0,0,0,1,1,1,0,0,4,1,0,1,2
